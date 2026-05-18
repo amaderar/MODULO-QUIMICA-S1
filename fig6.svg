@@ -1,0 +1,23 @@
+<svg width="220" height="120" viewBox="0 0 220 120" xmlns="http://www.w3.org/2000/svg" font-family="Arial" font-size="13">
+  <!-- C1 -->
+  <text x="60" y="65" text-anchor="middle" font-size="15" font-weight="bold">C</text>
+  <!-- C2 -->
+  <text x="150" y="65" text-anchor="middle" font-size="15" font-weight="bold">C</text>
+  <!-- C-C enlace -->
+  <line x1="70" y1="60" x2="140" y2="60" stroke="#333" stroke-width="2"/>
+  <!-- H en C1 -->
+  <line x1="60" y1="50" x2="60" y2="20" stroke="#333" stroke-width="2"/>
+  <text x="60" y="14" text-anchor="middle" font-weight="bold">H</text>
+  <line x1="48" y1="60" x2="18" y2="60" stroke="#333" stroke-width="2"/>
+  <text x="10" y="64" text-anchor="middle" font-weight="bold">H</text>
+  <line x1="60" y1="70" x2="60" y2="100" stroke="#333" stroke-width="2"/>
+  <text x="60" y="112" text-anchor="middle" font-weight="bold">H</text>
+  <!-- H en C2 -->
+  <line x1="150" y1="50" x2="150" y2="20" stroke="#333" stroke-width="2"/>
+  <text x="150" y="14" text-anchor="middle" font-weight="bold">H</text>
+  <line x1="162" y1="60" x2="192" y2="60" stroke="#333" stroke-width="2"/>
+  <text x="200" y="64" text-anchor="middle" font-weight="bold">H</text>
+  <line x1="150" y1="70" x2="150" y2="100" stroke="#333" stroke-width="2"/>
+  <text x="150" y="112" text-anchor="middle" font-weight="bold">H</text>
+  <text x="110" y="118" text-anchor="middle" font-size="11" fill="#555">Etano (C₂H₆)</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="300" height="130" viewBox="0 0 300 130" xmlns="http://www.w3.org/2000/svg" font-family="Arial" font-size="13">
+  <text x="50" y="65" text-anchor="middle" font-size="15" font-weight="bold">C</text>
+  <text x="148" y="65" text-anchor="middle" font-size="15" font-weight="bold">C</text>
+  <text x="246" y="65" text-anchor="middle" font-size="15" font-weight="bold">C</text>
+  <!-- enlaces C-C -->
+  <line x1="60" y1="60" x2="138" y2="60" stroke="#333" stroke-width="2"/>
+  <line x1="158" y1="60" x2="236" y2="60" stroke="#333" stroke-width="2"/>
+  <!-- H en C1 -->
+  <line x1="50" y1="50" x2="50" y2="22" stroke="#333" stroke-width="2"/><text x="50" y="15" text-anchor="middle" font-weight="bold">H</text>
+  <line x1="38" y1="60" x2="10" y2="60" stroke="#333" stroke-width="2"/><text x="4" y="64" text-anchor="middle" font-weight="bold">H</text>
+  <line x1="50" y1="70" x2="50" y2="98" stroke="#333" stroke-width="2"/><text x="50" y="111" text-anchor="middle" font-weight="bold">H</text>
+  <!-- H en C2 -->
+  <line x1="148" y1="50" x2="148" y2="22" stroke="#333" stroke-width="2"/><text x="148" y="15" text-anchor="middle" font-weight="bold">H</text>
+  <line x1="148" y1="70" x2="148" y2="98" stroke="#333" stroke-width="2"/><text x="148" y="111" text-anchor="middle" font-weight="bold">H</text>
+  <!-- H en C3 -->
+  <line x1="246" y1="50" x2="246" y2="22" stroke="#333" stroke-width="2"/><text x="246" y="15" text-anchor="middle" font-weight="bold">H</text>
+  <line x1="258" y1="60" x2="286" y2="60" stroke="#333" stroke-width="2"/><text x="293" y="64" text-anchor="middle" font-weight="bold">H</text>
+  <line x1="246" y1="70" x2="246" y2="98" stroke="#333" stroke-width="2"/><text x="246" y="111" text-anchor="middle" font-weight="bold">H</text>
+  <text x="148" y="125" text-anchor="middle" font-size="11" fill="#555">Propano (C₃H₈)</text>
+</svg>

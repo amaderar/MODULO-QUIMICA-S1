@@ -1,0 +1,30 @@
+<svg width="340" height="170" viewBox="0 0 340 170" xmlns="http://www.w3.org/2000/svg" font-family="Arial" font-size="13">
+  <!-- cadena: C1-C2-C3-C4 -->
+  <text x="40"  y="95" text-anchor="middle" font-size="15" font-weight="bold">C</text>
+  <text x="120" y="95" text-anchor="middle" font-size="15" font-weight="bold">C</text>
+  <text x="210" y="95" text-anchor="middle" font-size="15" font-weight="bold">C</text>
+  <text x="295" y="95" text-anchor="middle" font-size="15" font-weight="bold">C</text>
+  <line x1="50"  y1="90" x2="110" y2="90" stroke="#333" stroke-width="2"/>
+  <line x1="130" y1="90" x2="200" y2="90" stroke="#333" stroke-width="2"/>
+  <line x1="220" y1="90" x2="285" y2="90" stroke="#333" stroke-width="2"/>
+  <!-- H C1 -->
+  <line x1="40" y1="80" x2="40" y2="55" stroke="#333" stroke-width="1.5"/><text x="40" y="48" text-anchor="middle">H</text>
+  <line x1="27" y1="90" x2="5"  y2="90" stroke="#333" stroke-width="1.5"/><text x="2"  y="94" text-anchor="end">H</text>
+  <line x1="40" y1="100" x2="40" y2="125" stroke="#333" stroke-width="1.5"/><text x="40" y="138" text-anchor="middle">H</text>
+  <!-- ramificación CH3 en C2 hacia arriba -->
+  <line x1="120" y1="82" x2="120" y2="45" stroke="#333" stroke-width="2"/>
+  <text x="120" y="37" text-anchor="middle" font-size="15" font-weight="bold">C</text>
+  <line x1="108" y1="33" x2="90"  y2="20" stroke="#333" stroke-width="1.5"/><text x="86"  y="16" text-anchor="middle" font-size="12">H</text>
+  <line x1="132" y1="33" x2="150" y2="20" stroke="#333" stroke-width="1.5"/><text x="154" y="16" text-anchor="middle" font-size="12">H</text>
+  <line x1="120" y1="27" x2="120" y2="15" stroke="#333" stroke-width="1.5"/><text x="120" y="11" text-anchor="middle" font-size="12">H</text>
+  <!-- H C2 hacia abajo -->
+  <line x1="120" y1="100" x2="120" y2="125" stroke="#333" stroke-width="1.5"/><text x="120" y="138" text-anchor="middle">H</text>
+  <!-- H C3 -->
+  <line x1="210" y1="80" x2="210" y2="55" stroke="#333" stroke-width="1.5"/><text x="210" y="48" text-anchor="middle">H</text>
+  <line x1="210" y1="100" x2="210" y2="125" stroke="#333" stroke-width="1.5"/><text x="210" y="138" text-anchor="middle">H</text>
+  <!-- H C4 -->
+  <line x1="295" y1="80" x2="295" y2="55" stroke="#333" stroke-width="1.5"/><text x="295" y="48" text-anchor="middle">H</text>
+  <line x1="308" y1="90" x2="330" y2="90" stroke="#333" stroke-width="1.5"/><text x="334" y="94" text-anchor="start">H</text>
+  <line x1="295" y1="100" x2="295" y2="125" stroke="#333" stroke-width="1.5"/><text x="295" y="138" text-anchor="middle">H</text>
+  <text x="168" y="160" text-anchor="middle" font-size="11" fill="#555">2-metilbutano (C₅H₁₂)</text>
+</svg>

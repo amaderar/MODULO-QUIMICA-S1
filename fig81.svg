@@ -1,0 +1,27 @@
+<svg width="280" height="160" viewBox="0 0 280 160" xmlns="http://www.w3.org/2000/svg" font-family="Arial" font-size="13">
+  <!-- cadena principal: C1-C2-C3 -->
+  <text x="40"  y="85" text-anchor="middle" font-size="15" font-weight="bold">C</text>
+  <text x="140" y="85" text-anchor="middle" font-size="15" font-weight="bold">C</text>
+  <text x="240" y="85" text-anchor="middle" font-size="15" font-weight="bold">C</text>
+  <!-- enlaces C1-C2 y C2-C3 -->
+  <line x1="50"  y1="80" x2="130" y2="80" stroke="#333" stroke-width="2"/>
+  <line x1="150" y1="80" x2="230" y2="80" stroke="#333" stroke-width="2"/>
+  <!-- H en C1 -->
+  <line x1="40" y1="70" x2="40" y2="42" stroke="#333" stroke-width="1.5"/><text x="40" y="35" text-anchor="middle">H</text>
+  <line x1="28" y1="80" x2="5"  y2="80" stroke="#333" stroke-width="1.5"/><text x="0"  y="84" text-anchor="end">H</text>
+  <line x1="40" y1="90" x2="40" y2="118" stroke="#333" stroke-width="1.5"/><text x="40" y="130" text-anchor="middle">H</text>
+  <!-- H en C3 -->
+  <line x1="240" y1="70" x2="240" y2="42" stroke="#333" stroke-width="1.5"/><text x="240" y="35" text-anchor="middle">H</text>
+  <line x1="252" y1="80" x2="275" y2="80" stroke="#333" stroke-width="1.5"/><text x="279" y="84" text-anchor="start">H</text>
+  <line x1="240" y1="90" x2="240" y2="118" stroke="#333" stroke-width="1.5"/><text x="240" y="130" text-anchor="middle">H</text>
+  <!-- ramificación: CH3 hacia arriba desde C2 -->
+  <line x1="140" y1="72" x2="140" y2="32" stroke="#333" stroke-width="2"/>
+  <text x="140" y="24" text-anchor="middle" font-size="15" font-weight="bold">C</text>
+  <line x1="128" y1="20" x2="108" y2="8"  stroke="#333" stroke-width="1.5"/><text x="104" y="6" text-anchor="middle" font-size="12">H</text>
+  <line x1="152" y1="20" x2="172" y2="8"  stroke="#333" stroke-width="1.5"/><text x="176" y="6" text-anchor="middle" font-size="12">H</text>
+  <line x1="140" y1="14" x2="140" y2="4"  stroke="#333" stroke-width="1.5"/><text x="140" y="2" text-anchor="middle" font-size="12">H</text>
+  <!-- H en C2 hacia abajo -->
+  <line x1="140" y1="90" x2="140" y2="118" stroke="#333" stroke-width="1.5"/><text x="140" y="130" text-anchor="middle">H</text>
+  <!-- etiqueta -->
+  <text x="140" y="152" text-anchor="middle" font-size="11" fill="#555">2-metilpropano (C₄H₁₀)</text>
+</svg>
